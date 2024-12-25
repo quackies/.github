@@ -1,12 +1,9 @@
 ## Quackies
 
-Quack, Hack, Track.
+Quack🐣, Hack🐥, Track🦆.
 
 <!--
 
 🐤
-🐣
-🐥
-🦆
 
 -->
